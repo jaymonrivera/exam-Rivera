@@ -108,7 +108,7 @@ function Company(props){
                 </Stack>
               </FormProvider>
             </ContentStyle>
-          </Container>yarn
+          </Container>
         </Card>
       </Container>
     </Page>
